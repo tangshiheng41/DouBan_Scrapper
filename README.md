@@ -24,3 +24,8 @@ Send the csv files to Deep Seek form a analysis about this movie.
 3. the code reuse possibility increase
 4. add more comments in code, also remove some
 5. rename some method, make them more clear and suitable to remember
+
+
+use version 1 only need download version_one.py
+use version 2 need download version_two.py and config.py
+use version 3 need download version_three.py and config.py
